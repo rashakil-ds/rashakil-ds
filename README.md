@@ -1,19 +1,19 @@
 <h1 align="center">Greetings, I'm Rashedul Alam Shakil</h1>
-<h3 align="center">Being a python programmer, I have decided to get into the field of data science and later on AI and machine learning. I am enjoying the research. My research area is data science & machine learning. I love to stay in research because it has “NO RULES”. Research stretches my mind, and challenges and tests me to think of new ideas, new reasons, and new possibilities</h3>
+<h3 align="center">Data Science Enthusiast. Doing M.Sc. in Data Science (Major Machine Learning & Artificial Intelligence) at University of Erlangen-Nuremberg (FAU), Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamrashakil" target="blank"><img src="https://img.shields.io/twitter/follow/iamrashakil?logo=twitter&style=for-the-badge" alt="iamrashakil" /></a> </p>
+- 🔭 I’m the CEO of **AiQuest Intelligence**
 
-- 🔭 I’m currently working on **AiQuest Intelligence**
+- 🌱 Digging Into **Data Science & Artificial Intelligence**
 
-- 🌱 I’m currently learning **Data Science & Artificial Intelligence**
+- 👨‍💻 All of my details [https://sites.google.com/view/rashedul-alam](https://sites.google.com/view/rashedul-alam)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/rashedul-alam](https://sites.google.com/view/rashedul-alam)
-
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **rashedul.alam@fau.de**
+
+- 📄 Know about my research [https://www.researchgate.net/profile/K-M-Alam](https://www.researchgate.net/profile/K-M-Alam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashakil-ds&show_icons=true&locale=en&layout=compact" alt="rashakil-ds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashakil-ds&show_icons=true&locale=en" alt="rashakil-ds" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashakil-ds&" alt="rashakil-ds" /></p>
