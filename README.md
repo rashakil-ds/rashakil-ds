@@ -1,5 +1,5 @@
 <h3 align="center">Assalamu Alaikum. Greetings, I'm Rashedul Alam Shakil</h3>
-<h5 align="center">Being a Python Programmer, I'm Data Science addicted. Doing M.Sc. in Data Science (Major Machine Learning & Artificial Intelligence) at University of Erlangen-Nuremberg. Also known as Friedrich Alexander-Universität (FAU), Germany.</h5>
+<h5 align="center">Being a Python Programmer, I'm Data Science addicted. Doing Master of Science (M.Sc) in Data Science (Major Machine Learning & Artificial Intelligence) at University of Erlangen-Nuremberg. Also known as Friedrich Alexander-Universität (FAU), Germany.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
 
