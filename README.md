@@ -15,7 +15,7 @@
 
 - 📫 Reach me **rashedul.alam@fau.de**
 
-- 📄 Know about my research [https://www.researchgate.net/profile/K-M-Alam](https://www.researchgate.net/profile/K-M-Alam)
+- 📄 Read my research [https://www.researchgate.net/profile/K-M-Alam](https://www.researchgate.net/profile/K-M-Alam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
