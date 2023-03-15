@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
 
-- 💼 I’m the Founder of [AiQuest Intelligence](https://www.aiquest.org/)
-
 - 🌱 Digging Into **Data Science & Artificial Intelligence**
 
 - ‍🏫 Teaching Data Science [Study Mart](https://www.youtube.com/c/studymart)
