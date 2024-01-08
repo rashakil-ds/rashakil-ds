@@ -7,13 +7,10 @@
 
 - ‍🏫 Teaching Data Science [Study Mart](https://www.youtube.com/c/studymart)
 
-- 👨‍💻 All of my details [https://sites.google.com/view/rashedul-alam](https://sites.google.com/view/rashedul-alam)
-
 - 💬 Ask me anything about **Python, Data Science & AI**
 
 - 📫 Reach me **rashedul.alam@fau.de**
 
-- 📄 Read my research [https://www.researchgate.net/profile/K-M-Alam](https://www.researchgate.net/profile/K-M-Alam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
