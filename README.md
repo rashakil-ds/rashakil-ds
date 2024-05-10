@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
 
 - 🌱 Digging Into **Data Science & Artificial Intelligence**
-- 👨🏻‍💻 Works at **SIEMENS Energy, Germany**
+- 👨🏻‍💻 Works at **SIEMENS, Germany**
 - ‍🏫 Teaching Data Science [Study Mart](https://www.youtube.com/c/studymart)
 
 - 💬 Ask me anything about **Python, Data Science & AI**
