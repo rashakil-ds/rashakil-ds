@@ -1,4 +1,3 @@
-<h3 align="center">Greetings!</h3>
 <h5 align="center"> Let's talk about Data </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
