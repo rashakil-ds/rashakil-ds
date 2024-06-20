@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything about **Python, Data Science & AI**
 
-- 📫 Reach Me on [LinkedIn](https://www.linkedin.com/in/kmrashedulalam/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kmrashedulalam/)
 
 
 <h3 align="left">Connect with me:</h3>
