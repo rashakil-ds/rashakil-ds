@@ -5,7 +5,7 @@
 - 🌱 Digging Into **Data Science & Artificial Intelligence**
 - 👨🏻‍💻 Works at **Siemens Energy, Germany**
 - ‍🏫 Teaching Data Science at [Study Mart](https://www.youtube.com/c/studymart)
-- 👨‍💻 Visit Professional Courses: [aiQuest Intelligence](https://aiquest.org/)
+- 👨‍💻 Founder of: [aiQuest Intelligence](https://aiquest.org/)
 - 💬 Ask me anything about **Python, Data Science & AI**
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kmrashedulalam/)
