@@ -1,4 +1,4 @@
-<h5 align="center"> Let's talk about Data Science & AI </h5>
+<h5 align="center"> Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning. Proven communication and teaching skills through content creation for 100,000+ learners. Adaptable, detail-oriented, and committed to continuous learning. </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashakil-ds&label=Profile%20views&color=0e75b6&style=flat" alt="rashakil-ds" /> </p>
 
