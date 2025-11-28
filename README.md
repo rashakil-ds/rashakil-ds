@@ -19,6 +19,4 @@
 <a href="https://www.youtube.com/c/studymart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="studymart" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashakil-ds&show_icons=true&locale=en&layout=compact" alt="rashakil-ds" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashakil-ds&show_icons=true&locale=en" alt="rashakil-ds" /></p>
